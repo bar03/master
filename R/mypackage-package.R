@@ -1,6 +1,6 @@
 #' @title mypackage
 #'cccccc
-#'cos
+#'cosa
 #' @description
 #' Homework6
 #'
